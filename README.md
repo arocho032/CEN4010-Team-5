@@ -2,7 +2,8 @@
 Central Repository for the Software Engineering Project
 
 ### Structure of this repo
-TBD
+All the assignments and specifications text goes on the specification folder. 
+The codebase goes on the project folder.
 
 ### Communication
 Use the following discord: https://discord.gg/e92WjGP
