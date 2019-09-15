@@ -7,6 +7,9 @@ Anthony:
 Kian:
 	~~*SOS7*~~, SOS9, SOS10, ~~SOS11~~, *SOS12*
 
+Anthony:
+	* SOS14 - Promotion Privileges overlaps with SOS2 - Grant Organizer Role. Both are well formatted and extensive, so we had to decide which one we are going to redo. 
+
 Kian:
 	* Please redo SOS7 (Private Account) as it overlaps with one that I had (SOS6 - Ensure User Profile Privacy). You could, for example, turn it into the action of setting an account to private rather than checking if the account is private. I.e., the user goes to his page, clicks a link "make private", inputs some whitelist/blacklist (who gets to see, who doesn't) and the information is relayed to the database. 
 	* Please redo SOS22 (Attendance Tracker) as it overlaps with one that I had (SOS4 - Attending an Event). 
