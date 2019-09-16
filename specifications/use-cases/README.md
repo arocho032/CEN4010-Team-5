@@ -18,7 +18,7 @@ Kian:
 Yovanni:
 	* Missing 4 Use Cases. Please make sure they don't overlap with the ones we already have. 
 
-Tariq
+Teriq
 	* Please add the constrains part to the use case. 
 	* SEUC1 - Create Event overlaps with SOS1 - Create Event. Please redo. Maybe an extend create special event that includes more functionalities but also requires more data? Like a Potluck event that requires the organizer to include a list of object that are wanted and tracks on the background who is designed to bring them? 
 	* SEUC2 - User Registration overlaps with an use case done by Yovanni, decide how you two want to redo them.
