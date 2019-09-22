@@ -19,11 +19,9 @@ Kian:
 * You are missing one? I only count 5 Use Cases with your name.
 
 Yovanni:
-* Missing 4 Use Cases. Please make sure they don't overlap with the ones we already have. 
+* Missing 2 Use Cases. Please make sure they don't overlap with the ones we already have. 
 
 Teriq
 * I modified `Manage Roster` into two use case: `Invite User from Roster`and `Remove User from Roster`. If you are OK with this change, then that means you have an extra use case. 
 
 
-* SEUC5 - Manage other Organization extends SOS5 - Ensure User Access.
-* SEUC6 feels a bit empty, what is this supposed to do again?
