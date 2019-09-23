@@ -242,7 +242,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFtHR92qnk+Oqg="
 					},
-					"name": "SOS01 - Create a club"
+					"name": "SOS16 - Create a organization"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -250,7 +250,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFtHR92qnk+Oqg="
 					},
-					"name": "SOS02 - Cancel an event"
+					"name": "SOS17 - Cancel an event"
 				},
 				{
 					"_type": "UMLUseCaseDiagram",
@@ -536,7 +536,7 @@
 							"left": 464,
 							"top": 232,
 							"width": 505,
-							"height": 480,
+							"height": 569,
 							"nameCompartment": {
 								"$ref": "AAAAAAFtHSDaQHl0XRY="
 							}
@@ -580,11 +580,11 @@
 												"$ref": "AAAAAAFtHSKA3nnRci4="
 											},
 											"font": "Arial;13;1",
-											"left": 684,
+											"left": 693.5,
 											"top": 291.5,
-											"width": 137,
+											"width": 185,
 											"height": 13,
-											"text": "SOS01 - Create a club"
+											"text": "SOS16 - Create a organization"
 										},
 										{
 											"_type": "LabelView",
@@ -615,9 +615,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 679,
+									"left": 688.5,
 									"top": 284.5,
-									"width": 147,
+									"width": 195.66259765625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFtHSKA3nnStK8="
@@ -717,7 +717,7 @@
 							"containerChangeable": true,
 							"left": 648,
 							"top": 280,
-							"width": 209,
+							"width": 276,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAFtHSKA3nnRci4="
@@ -761,7 +761,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 564,
+									"left": 578,
 									"top": 318,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -782,7 +782,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 561,
+									"left": 575,
 									"top": 303,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -803,7 +803,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 571,
+									"left": 583,
 									"top": 347,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -824,8 +824,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 484,
-									"top": 336,
+									"left": 485,
+									"top": 338,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -846,7 +846,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 484,
-									"top": 323,
+									"top": 324,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -867,7 +867,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 486,
-									"top": 364,
+									"top": 365,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -887,8 +887,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 644,
-									"top": 300,
+									"left": 670,
+									"top": 299,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -907,7 +907,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 639,
+									"left": 665,
 									"top": 287,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -927,8 +927,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 654,
-									"top": 326,
+									"left": 680,
+									"top": 325,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -977,7 +977,7 @@
 								"$ref": "AAAAAAFtHSCqdHlJ9Ik="
 							},
 							"lineStyle": 1,
-							"points": "463:363;673:315",
+							"points": "463:364;699:315",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFtHSP66HoI3hM="
@@ -1056,7 +1056,7 @@
 											"top": 355.5,
 											"width": 151,
 											"height": 13,
-											"text": "SOS02 - Cancel an event"
+											"text": "SOS17 - Cancel an event"
 										},
 										{
 											"_type": "LabelView",
@@ -1528,7 +1528,7 @@
 											"top": 403.5,
 											"width": 132,
 											"height": 13,
-											"text": "SOS03 - Create Roles"
+											"text": "SOS14 - Create Roles"
 										},
 										{
 											"_type": "LabelView",
@@ -2000,7 +2000,7 @@
 											"top": 459.5,
 											"width": 132,
 											"height": 13,
-											"text": "SOS04 - Create Event"
+											"text": "SOS01 - Create Event"
 										},
 										{
 											"_type": "LabelView",
@@ -2652,7 +2652,7 @@
 											"top": 515.5,
 											"width": 149,
 											"height": 13,
-											"text": "SOS05 - Enable 2 Factor"
+											"text": "SOS12 - Enable 2 Factor"
 										},
 										{
 											"_type": "LabelView",
@@ -3859,7 +3859,7 @@
 											"top": 667.5,
 											"width": 171,
 											"height": 13,
-											"text": "SOS07 - Attending an Event"
+											"text": "SOS04 - Attending an Event"
 										},
 										{
 											"_type": "LabelView",
@@ -4563,7 +4563,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFtHR92qnk+Oqg="
 					},
-					"name": "SOS03 - Create Roles"
+					"name": "SOS14 - Create Roles"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -4571,7 +4571,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFtHR92qnk+Oqg="
 					},
-					"name": "SOS04 - Create Event"
+					"name": "SOS01 - Create Event"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -5072,7 +5072,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFtHR92qnk+Oqg="
 					},
-					"name": "SOS05 - Enable 2 Factor"
+					"name": "SOS12 - Enable 2 Factor"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -5088,7 +5088,15 @@
 					"_parent": {
 						"$ref": "AAAAAAFtHR92qnk+Oqg="
 					},
-					"name": "SOS07 - Attending an Event"
+					"name": "SOS04 - Attending an Event"
+				},
+				{
+					"_type": "UMLUseCase",
+					"_id": "AAAAAAFtX1gE1SUcI+k=",
+					"_parent": {
+						"$ref": "AAAAAAFtHR92qnk+Oqg="
+					},
+					"name": "SOS18 - Create A Task"
 				}
 			]
 		},
