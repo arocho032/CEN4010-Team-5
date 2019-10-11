@@ -1,3 +1,6 @@
 [submodule "project/React-App"]
 	path = project/React-App
 	url = https://github.com/arocho032/CEN4010-React-App.git
+[submodule "project/SOSDB"]
+	path = project/SOSDB
+	url = https://github.com/asanchezayra01/SOSDB.git
