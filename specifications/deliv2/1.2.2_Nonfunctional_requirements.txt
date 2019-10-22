@@ -1,0 +1,268 @@
+Create_Event
+
+	USABILITY
+No previous training or knowledge -
+	The system shall allow users to navigate to the correct page and press on the button. A form will appear before the user with labels that they can follow to know what to insert into the sections, then another button to complete the process.
+
+Tutorial or Help frame should be provided -
+	a tutorial with message prompts will be included to help guide user.
+
+Organizer should take less than 10 minutes to create an event
+	The process to create an event at its bare minimum requirements should be very quick and easy. There are additional
+options to add more details or functionalities but all of this should not take very long.
+
+
+	RELIABILITY
+Mean Time to Failure - 5% failure monthly is acceptable
+	The main purpose of the website is to give organizations on campus a platform to which they can
+manage their activites. Being able to create an event is paramount to this functionality, so we want to
+put as much effort as we can to minimize faulty behavior within the system.
+
+Downtime for Login Back-up - 30 minutes in a 24-hour period.
+Downtime for Maintenance - 1 hour in a 2 week period.
+	The maintenance is important to keep systems up to date
+
+
+	PERFORMANCE
+Response Time - form should be sent and saved within 10 seconds
+	response time should be fast, since the main purpose of the site involves making
+events there will be many requests coming in a short amount of time. The system should be
+able to handle these.
+
+Throughput - 50 requests in 1 minute
+	With the anticipation that all organizations will want to take full advantage to
+get their activities out there for everyone to see. Many events will be created within a short
+amount of time.
+
+	SUPPORTABILITY
+
+Adaptibility -The website can work with Google Chrome, Mozilla Firefox, and Microsoft Edge
+Portability -Also possibly to create events from the mobile application
+
+
+
+
+
+Grant_Organizer_Roles
+
+	USABILITY
+
+No previous training or knowledge -
+	May seem complex but still relatively easy to learn, prompts and concrete naming
+of items help users to understand what functions they are interacting with.
+
+Tutorial or help frames are provided -
+	A tutorial with message prompts will be included to help guide user.
+
+Organizer should take no less than 10 minutes to complete an invitation -
+	It is only a matter of filling out details on a form and pressing the button to 
+complete the request.
+
+	RELIABILITY
+Mean Time of Failure - 1% yearly is acceptable
+	Unauthorized access to Organizer functions cannot be tolerated. Be sure that
+club Organizer did indeed grant these permissions or it might lead to information being leaked.
+
+Availability - 30 minutes in a 24-hour period for backup and maintenance
+	Organizers should have control over the activites of their respective clubs
+unless they intend to give roles to other members.
+
+	PERFORMANCE
+Prvilege checks should be done within 2 seconds -
+	Certain actions will first require verification of organizer privileges in
+order to carry them out. There are users who are not the organizer but can be given
+a set number of privileges, system should check if these users have the correct ones
+to issue a command.
+
+The system should handle 20 privilege checks in 1 minute -
+	Everyone will not have the same privileges and they most also belong to the
+same organization. This constraint will limit usage so users don't step out of their
+bounds. Plus the organizer grants permissions to members they trust to handle a job.
+
+	SUPPORTABILITY
+Supported on Google Chrome, Mozilla Firefox, and Microsoft Edge		
+
+
+
+Attending_an_Event
+
+	USABILITY
+No previous training required -
+Systems are self explanatory
+
+On average the user should take 2 minutes to complete notification requests -
+  the system has to take attendance of who will be present at the event.
+  
+	RELIABILITY
+Mean time of failure - 5% failures for every month of operation is acceptable
+  Users have to check in to the itinerary so the club knows who is definitely going to be attending
+  Then the members will be able to plan accordingly.
+
+Availability - Down time for Login Back-up 30 minutes in a 24-hour period.
+  Users should register for events early on and with time to spare. 
+
+	PERFORMANCE
+Request should be sent and saved within 6 seconds -
+  Quick reponse time to not keep users waiting too long.
+
+System should be able to handle 1000 request in 1 minute -
+  We have to expect many people signing up to attend so the system needs
+  to handle many requests.
+
+	SUPPORTABILITY
+The event creation should be supported by Google Chrome, Mozilla Firefox, and Microsoft Edge.
+
+
+
+
+Access_Event_by_Location
+	
+	USABILITY
+users must be aware of their privileges and what those privileges permit
+	RELIABILITY
+Mean Time to Failure - 1% failure yearly is acceptable
+  System will be using GPS to show users the location of the event. This method will give
+  users the most accurate coordinates to their destination.
+
+Availability - 30 minutes in a 24-hour period for backup and maintenance
+  The GPS needs to stay on so club members are able to find their events.
+  Using this technology takes alot of resources.
+  
+	PERFORMANCE
+Privilege Checks should be done within 2 seconds -
+  Privilege checks to use the GPS. Users who are not registered to be in the event
+  cannot use GPS to know where it will be.
+
+The System should handle 20 privilege checks in 1 minute -
+  
+	SUPPORTABILITY
+Should be supported on Google Chrome, Mozilla Firefox, and Microsoft Edge
+
+
+Create_Roles
+	USABILITY
+No previous training required
+  Help tutorials will be available to show using how to do task.
+
+On average the user should take 2 minutes to complete the promotion request to the system
+  User gets on the appropriate page, fills out documentation, chooses a Role, creates a password
+  then clicks submit.
+
+	RELIABILITY
+Mean time to Failure - 5% failures for every month of operation is acceptable
+  Users should not be granted roles that were not approved by an organizer. Must make sure that
+  users with organizer accounts are made secure so no one can tamper with it.
+
+Availability - Down time for Login Back-Up 30 minutes in a 24 hour period
+  
+	PERFORMANCE
+Request should be sent and saved within 6 seconds.
+System should be able to handle 100 requests in 1 minute.
+
+	SUPPORTABILITY
+Shall be supported by Google Chrome, Mozilla Firefox, and Microsoft Edge
+
+
+
+Create_Organization
+
+	USABILITY
+No previous training required
+  instructions will be provided 
+
+On average the user should take 2 minutes to complete the notification request to the system
+  System needs to process the request and verify that name of the Organization is not taken.
+
+	RELIABILITY
+Mean time to failure – 5% failures for every month of operation is acceptable.
+  Give users the opportunity to create their own organizations if they wish.
+
+Availability – Down time for Login Back-up 30 minutes in a 24 hour period.
+  Keep the availability open for any user wishing to start a new organization
+
+	PERFORMANCE
+Request should be sent and saved within 6 seconds.
+  Make certain the response time is fast.
+
+System should be able to handle 200 requests in 1 minute.
+  Handle a huge load of objects created around the same time.
+  
+	SUPPORTABILITY	
+The Event Creation should be supported by Google Chrome, Mozilla FireFox, and Microsoft Edge.
+
+
+
+Cancel_an_Event
+	
+	USABILITY
+No previous training required.
+  task is self explanatory
+On average the user should take 2 minutes to complete the notification request to the system.
+  If an event is to be removed then Organizer will have to wait to receive conformation.
+  	
+	RELIABILITY
+Mean time to failure – 5% failures for every month of operation is acceptable.
+  Canceling an event is also an important function to have, have to make sure that it worls.
+   An event may have been opened by mistake or due to change in plans it must be taken down.
+
+Availability – Down time for Login Back-up 30 minutes in a 24 hour period.
+	
+	PERFORMANCE
+Request should be sent and saved within 6 seconds.
+  Response time to cancel an event should be fast
+
+System should be able to handle 100 requests in 1 minute.
+  Overload of requests made in a short period of time should be executed correctly
+	
+	SUPPORTABILITY
+Shall should be supported by Chrome, Mozilla, and IE.
+
+
+Create_Task
+
+	USABILITY
+Requires minimal training.
+Instructions are self-explanatory
+
+One or two help frames on the Help page shall be provided explaining how to add tasks.
+  To guide user if they have trouble completing the task
+
+On average the user should take less than 5 minutes to complete the notification request to the system.
+  Click on an event that has been created and click to edit the event to make a task.
+
+	RELIABILITY
+Mean time to failure – 5% failures for every 24 hours of operation is acceptable.
+ Maintenance will be done every 24 hours to ensure that this functions remains operational 
+
+Availability
+Downtime for Login Back-up – 30 minutes in a 24-hour period.
+Downtime for Maintenance – 1 hour in a 2 weeks period.
+  
+ 
+	PERFORMANCE
+Request should be sent and saved within 6 seconds.
+  Response time should be fast
+
+System should be able to handle 100 requests in 1 minute.
+  Overload of requests should be handled
+
+	SUPPORTABILITY
+Shall be supported by Chrome, Mozilla, and IE.
+
+
+
+Set_Up_Two_Factor_Authentication
+
+USABILITY
+User must be aware of their privileges and what actions those privileges permit.
+  
+RELIABILITY
+Mean Time to Failure – 1% failure yearly is acceptable.
+Availability – 30 minutes in a 24-hour period for backup and maintenance. 
+
+PERFORMANCE
+Privilege Checks should be done within 2 seconds.
+The system should handle 20 privilege checks in 1 minute.
+ 
+SUPPORTABILITY
+Should be supported by all browsers.
