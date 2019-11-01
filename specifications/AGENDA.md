@@ -5,7 +5,7 @@
 * Room: GL 595A
 
 ### Roles
-* Primary Facilitator:	Teriq
+* Primary Facilitator:	Armando
 * Minute Taker:	Anthony
 * Time Keeper: Yovani
 
