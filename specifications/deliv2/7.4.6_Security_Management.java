@@ -6,7 +6,7 @@ public class AccessManager {
  	* impossible to create instances of
  	* AccessManager subclasses.
 	*/
-	protected AccessManager() {  }  
+	protected AccessManager() {}  
 
  	/**
   	 * A handle to the unique AccessManager
