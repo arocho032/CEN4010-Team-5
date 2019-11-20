@@ -4,3 +4,6 @@
 [submodule "project/SOSDB"]
 	path = project/SOSDB
 	url = https://github.com/asanchezayra01/SOSDB.git
+[submodule "project/CEN4010-Backend"]
+	path = project/CEN4010-Backend
+	url = https://github.com/arocho032/CEN4010-Backend
