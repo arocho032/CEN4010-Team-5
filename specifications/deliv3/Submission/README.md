@@ -85,6 +85,52 @@ The connection to the backend is handled by the Redux middleware contained in
 /app/utils/createSocketMiddleware, which is a modified version of https://github.com/itaylor/redux-socket.io.
 The modifications where done to implement encryption between front and backend.
 
+
+### Usage (use case walkthroughs) :
+
+###### Registration :
+1. Click on the login button on the top-right corner of the main navigation bar
+![Image of login and registration]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/SignIn.PNG)
+
+2. Click on register button
+3. On the registration form input your information.
+![Image of login and registration forms]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/SignUp.PNG)
+4. Click the submit.
+5. Your account is successfully created now.
+
+###### Login :
+1. Click on the login button on the top-right corner of the main navigation bar
+![Image of login and registration]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/SignIn.PNG)
+2. Enter your credentials (username & password)
+3. Click on the Login
+
+###### Logout :
+1. When you're logged in, click on logout button on the top-right corner on main nav bar.
+
+###### Create Event :
+1. You must be a member with event management privileges.
+2. Go to the desired organization page.
+3. On the top bar menu click on events then create an event in the drop-down.
+![Image of org page menu bar]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/OrgLoggedIn.PNG)
+4. Enter the event information in the following form.
+![Image of event form modal]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/CreateEvent.PNG)
+5. Click on the submit.
+
+###### Cancel Event :
+1. You must be a member with event management privileges.
+2. Go to the desired organization page.
+3. On the top bar menu click on events then cancel an event in the drop-down.
+![Image of org page menu bar]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/OrgLoggedIn.PNG)
+4. Select the desired event to cancel from the list in the following form:
+![Image of cancel event modal]
+(https://github.com/arocho032/CEN4010-Team-5/blob/master/specifications/deliv3/done/CancelEvent.PNG)
+
 ###############################################################################
 ## Project's Main GitHub Repository: https://github.com/arocho032/CEN4010-Team-5
 ## Front-end GitHub Repository: https://github.com/arocho032/CEN4010-React-App
