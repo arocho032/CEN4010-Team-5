@@ -5,7 +5,7 @@
   "url": "http://localhost:3000/",
   "tests": [{
     "id": "b595b93e-84b8-41bb-9f52-a87e8a1cd396",
-    "name": "SOS32-System-**-Sunny01**",
+    "name": "SOS32-System-001-Sunny-01",
     "commands": [{
       "id": "7674db2f-a4aa-4398-ae88-4480825164f2",
       "comment": "",
@@ -122,7 +122,7 @@
     }]
   }, {
     "id": "822b79b2-ddc5-4436-a1d1-f4bf805e7c89",
-    "name": "SOS32-System-**-Sunny02**",
+    "name": "SOS32-System-002-Sunny-02",
     "commands": [{
       "id": "2e69a4f6-82dc-4fbc-8b49-8cdeb59008fa",
       "comment": "",
@@ -242,7 +242,7 @@
     }]
   }, {
     "id": "f4904635-f0fc-4af8-8bf9-17e712d86982",
-    "name": "SOS32-System-**-Rainy01**",
+    "name": "SOS32-System-003-Rainy-01",
     "commands": [{
       "id": "0528368a-2084-4040-a972-f7c14447d138",
       "comment": "",
@@ -345,7 +345,7 @@
     }]
   }, {
     "id": "169b1c48-686b-4582-a31c-3c60630ce9ca",
-    "name": "SOS32-System-**-Rainy02**",
+    "name": "SOS32-System-004-Rainy-02",
     "commands": [{
       "id": "36ac6568-28a4-4b19-935c-84ee49dbb129",
       "comment": "",
@@ -450,7 +450,7 @@
     }]
   }, {
     "id": "70a22a39-e089-4d63-979c-dbbd0fb4fccf",
-    "name": "SOS07-Security-**-Sunny01**",
+    "name": "SOS07-Security-017-Sunny-09",
     "commands": [{
       "id": "d382d066-1d95-475e-ac51-785db08c73c7",
       "comment": "",
@@ -614,7 +614,7 @@
     }]
   }, {
     "id": "cefa85d7-1ef1-4f34-9cfc-0c47d76d4381",
-    "name": "SOS07-Security-**-Sunny02**",
+    "name": "SOS07-Security-018-Sunny-10",
     "commands": [{
       "id": "1ccaeff6-53e4-43f5-963b-6334c70d8195",
       "comment": "",
@@ -1199,7 +1199,7 @@
     }]
   }, {
     "id": "644e8dfa-6430-4976-a88a-08836ed111e9",
-    "name": "SOS07-Security-**-Rainy01**",
+    "name": "SOS07-Security-019-Rainy-09",
     "commands": [{
       "id": "bb9fa016-6cdc-4660-b288-3e60799f4814",
       "comment": "",
@@ -1341,7 +1341,7 @@
     }]
   }, {
     "id": "a93cd7ee-7727-4015-bc4a-1b1c8f9dc483",
-    "name": "SOS07-Security-**-Rainy02**",
+    "name": "SOS07-Security-020-Rainy-010",
     "commands": [{
       "id": "a4ac39c6-c414-4db0-8ec9-d2ee8aa17933",
       "comment": "",
@@ -1526,7 +1526,7 @@
     }]
   }, {
     "id": "176f1a8e-4fc9-47a2-8cd3-beb8a0d9dab6",
-    "name": "SOS16-System-**-Sunny01**",
+    "name": " SOS16-System-021-Sunny-11",
     "commands": [{
       "id": "9bd0f935-8262-46b1-aabf-87acdfe1cd4d",
       "comment": "",
@@ -1827,7 +1827,7 @@
     }]
   }, {
     "id": "f98380cd-2a4d-47d0-b702-a60e07389275",
-    "name": "SOS16-System-**-Sunny02**",
+    "name": "SOS16-System-022-Sunny-12",
     "commands": [{
       "id": "17bb9c3d-38cc-454a-9bb6-4481be30bf8f",
       "comment": "",
@@ -2050,7 +2050,7 @@
     }]
   }, {
     "id": "d1351282-4708-4d99-a74d-5748aa0bcad4",
-    "name": "SOS16-System-**-Rainy01**",
+    "name": " SOS16-System-023-Rainy-11",
     "commands": [{
       "id": "b5c10140-d300-4c27-bf71-7e6213b2b13d",
       "comment": "",
@@ -2272,7 +2272,7 @@
     }]
   }, {
     "id": "5f4efc82-1a2c-4939-bb00-8a33857bf6e2",
-    "name": "SOS16-System-**-Rainy02**",
+    "name": "SOS16-System-024-Rainy-12",
     "commands": [{
       "id": "e5d842cc-3f2a-402b-81b5-31c02613b00b",
       "comment": "",
@@ -2507,7 +2507,7 @@
     }]
   }, {
     "id": "62615150-e197-4c0a-9a13-4df4f4f58307",
-    "name": "SOS01-System-**-Sunny01**",
+    "name": "SOS01-System-025-Sunny-13",
     "commands": [{
       "id": "0fd33534-d381-4c8a-8cd8-219a9449182d",
       "comment": "",
@@ -3397,7 +3397,7 @@
     }]
   }, {
     "id": "4dc4d22d-e1bc-407b-a869-3d57b107715b",
-    "name": "SOS01-System-**-Sunny02**",
+    "name": "SOS01-System-026-Sunny-14",
     "commands": [{
       "id": "8c17118c-00a8-4a65-9df3-5ac77b291309",
       "comment": "",
@@ -4287,7 +4287,7 @@
     }]
   }, {
     "id": "d40f1570-fa2a-4512-8162-0451249faf67",
-    "name": "SOS01-System-**-Rainy01**",
+    "name": "SOS01-System-027-Rainy-13",
     "commands": [{
       "id": "30ef1b00-e20e-450c-836b-dc3773a30464",
       "comment": "",
@@ -4482,7 +4482,7 @@
     }]
   }, {
     "id": "c43bb951-a51a-4f7c-a784-620acc27929d",
-    "name": "SOS01-System-**-Rainy02**",
+    "name": "SOS01-System-028-Rainy-14",
     "commands": [{
       "id": "2bcbf1aa-677a-4a58-8cc4-6c581859d0f4",
       "comment": "",
@@ -4641,7 +4641,7 @@
     }]
   }, {
     "id": "2a87bc80-bb36-4551-bd4b-007307150ae9",
-    "name": "SOS31-System-**-Sunny01**",
+    "name": "SOS31-System-029-Sunny-15",
     "commands": [{
       "id": "db12e076-0ef0-4169-b414-cd3b329db587",
       "comment": "",
@@ -4732,7 +4732,7 @@
     }]
   }, {
     "id": "326d0771-643c-40a7-a07c-c37974bf5234",
-    "name": "SOS31-System-**-Sunny02**",
+    "name": "SOS31-System-030-Sunny-16",
     "commands": [{
       "id": "ec7d457e-9964-4982-a00e-ecdbab58453a",
       "comment": "",
@@ -4823,7 +4823,7 @@
     }]
   }, {
     "id": "2cd9a343-bf91-47ca-a653-f67a1d58c42e",
-    "name": "SOS31-System-**-Rainy01**",
+    "name": "SOS31-System-031-Rainy-15",
     "commands": [{
       "id": "95b389e6-24ad-4083-85f6-e1f4bcff98f9",
       "comment": "",
@@ -4926,7 +4926,7 @@
     }]
   }, {
     "id": "9b0af525-e0d9-4c53-b0ed-02ae8289367e",
-    "name": "SOS31-System-**-Rainy02**",
+    "name": "SOS31-System-032-Rainy-16",
     "commands": [{
       "id": "6db7662a-e3ff-427c-8b53-b8bdc170e1e0",
       "comment": "",
@@ -5029,7 +5029,7 @@
     }]
   }, {
     "id": "74a20f1a-1e76-478c-ba59-b98779b1f468",
-    "name": "SOS22-System-**-Sunny02**",
+    "name": "SOS22-System-034-Sunny-18",
     "commands": [{
       "id": "4514742f-2845-48a6-8a09-5781a05fe3d8",
       "comment": "",
@@ -5274,7 +5274,7 @@
     }]
   }, {
     "id": "6523a3b6-b8a1-4b64-876f-f1b372974926",
-    "name": "SOS22-System-**-Sunny01**",
+    "name": "SOS22-System-033-Sunny-17",
     "commands": [{
       "id": "1bb00031-894e-4ff8-ab66-e0262bb20096",
       "comment": "",
@@ -5519,7 +5519,7 @@
     }]
   }, {
     "id": "0b7ccc43-5788-47db-8db7-96501a2c7f62",
-    "name": "SOS22-System-**-Rainy01**",
+    "name": "SOS22-System-035-Rainy-17",
     "commands": [{
       "id": "5c2326c3-8569-4eec-9658-c1248dc50748",
       "comment": "",
@@ -5695,7 +5695,7 @@
     }]
   }, {
     "id": "579e64dc-2bf4-4433-a57b-0624d2dee372",
-    "name": "SOS22-System-**-Rainy02**",
+    "name": "SOS22-System-036-Rainy-18",
     "commands": [{
       "id": "b799cf5d-2707-402d-92cd-2c0c13c108fb",
       "comment": "",
@@ -5871,7 +5871,7 @@
     }]
   }, {
     "id": "9de1bb97-323a-4adb-b3f9-4f89c1d976be",
-    "name": "SOS17-System-**-Sunny01**",
+    "name": "SOS17-System-037-Sunny-19",
     "commands": [{
       "id": "2be1e271-c5de-45e1-b69b-20dcac0602e1",
       "comment": "",
@@ -6177,7 +6177,7 @@
     }]
   }, {
     "id": "1727434c-425d-40e0-a118-668b09943794",
-    "name": "SOS17-System-**-Sunny02**",
+    "name": "SOS17-System-038-Sunny-20",
     "commands": [{
       "id": "1f516da2-4fa9-4814-8fde-5b4dd7203484",
       "comment": "",
@@ -6483,7 +6483,7 @@
     }]
   }, {
     "id": "932ee193-8cda-4cfe-a004-7a6413dccd22",
-    "name": "SOS17-System-**-Rainy01**",
+    "name": "SOS17-System-039-Rainy-19",
     "commands": [{
       "id": "7aa55f15-7f08-4878-b148-895f8953a1c7",
       "comment": "",
@@ -6562,7 +6562,7 @@
     }]
   }, {
     "id": "df5fb8fb-4949-4201-9ceb-5aaff3a1df51",
-    "name": "SOS17-System-**-Rainy02**",
+    "name": "SOS17-System-040-Rainy-20",
     "commands": [{
       "id": "58ff230f-bb03-40c5-9198-2cafd4bf9c15",
       "comment": "",
@@ -6634,7 +6634,7 @@
     }]
   }, {
     "id": "d64e6779-2f2e-4394-8a56-1f13a9a31844",
-    "name": "SOS02-System-**-Sunny01**",
+    "name": "SOS02-System-009-Sunny-05",
     "commands": [{
       "id": "3aba4972-7d54-40ee-9379-6d19c21643c9",
       "comment": "",
@@ -6895,7 +6895,7 @@
     }]
   }, {
     "id": "c9b1524f-15e7-47a8-b243-26a601939744",
-    "name": "SOS02-System-**-Sunny02**",
+    "name": "SOS02-System-010-Sunny-06",
     "commands": [{
       "id": "784e5435-b88a-4130-8ba2-a967ed479479",
       "comment": "",
@@ -7156,7 +7156,7 @@
     }]
   }, {
     "id": "6dcc9e16-c40d-4764-93ea-a3870c098915",
-    "name": "SOS02-System-**-Rainy01**",
+    "name": "SOS02-System-011-Rainy-05",
     "commands": [{
       "id": "a6cbf2a9-1302-4059-880f-45465c12cc20",
       "comment": "",
@@ -7288,7 +7288,7 @@
     }]
   }, {
     "id": "1cba4f2f-f5f1-4cd6-bdc2-220a117c32fb",
-    "name": "SOS02-System-**-Rainy02**",
+    "name": "SOS02-System-012-Rainy-06",
     "commands": [{
       "id": "c14af4ae-8da5-4776-8233-5100dbe5bf8c",
       "comment": "",
@@ -7420,35 +7420,35 @@
     }]
   }, {
     "id": "ba796943-4494-4ae3-9c7b-0f5b840ec4da",
-    "name": "SOS04-System-**-Sunny01**",
+    "name": "SOS04-System-013-Sunny-07",
     "commands": []
   }, {
     "id": "00a42781-bde3-46ba-a7f6-0156497af28e",
-    "name": "SOS04-System-**-Sunny02**",
+    "name": "SOS04-System-014-Sunny-08",
     "commands": []
   }, {
     "id": "52d55b5b-80ca-4d57-9597-50a9ba775fdc",
-    "name": "SOS04-System-**-Rainy01**",
+    "name": "SOS04-System-015- Rainy-07",
     "commands": []
   }, {
     "id": "09987920-01a2-42f7-92c9-256f749f8e08",
-    "name": "SOS04-System-**-Rainy02**",
+    "name": "SOS04-System-015-Rainy-07",
     "commands": []
   }, {
     "id": "af01a8d5-8d27-4069-98c8-ca9a86704993",
-    "name": "SOS10-System-**-Sunny01**",
+    "name": "SOS10-System-005-Sunny-03",
     "commands": []
   }, {
     "id": "2a6c2111-949f-4645-9a9a-d02b854266fa",
-    "name": "SOS10-System-**-Sunny02**",
+    "name": "SOS10-System-006-Sunny-04",
     "commands": []
   }, {
     "id": "80dd3ee7-aec6-4433-89c5-d8255cdc032c",
-    "name": "SOS10-System-**-Rainy01**",
+    "name": "SOS10-System-007-Rainy-03",
     "commands": []
   }, {
     "id": "64cb2394-4c66-4ee3-8c5a-6d2df4d28158",
-    "name": "SOS10-System-**-Rainy02**",
+    "name": "SOS10-System-008-Rainy-04",
     "commands": []
   }],
   "suites": [{
